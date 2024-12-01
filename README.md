@@ -1,6 +1,5 @@
 # PGWP
 PGWP guidance
-Here’s the response to your query, along with references:
 
 ---
 
@@ -59,4 +58,61 @@ If you haven’t secured employment by March 25, 2025, your wife can apply for a
 
 ---
 
-Let me know if you need help with drafting any applications or further clarifications.
+These are excellent follow-up questions! Let’s address each query systematically:
+
+---
+
+### **1. Can you apply for your wife’s work permit extension if you secure a job before receiving your PGWP?**  
+
+Yes, you can apply for your wife’s Open Work Permit (OWP) extension **before you receive your PGWP**, provided:  
+- You have proof of employment in a **NOC 0, A, or B job**.  
+- You have already submitted your PGWP application, and your student permit is still valid or under implied status.  
+
+In this case, you can demonstrate to IRCC that:  
+1. You are transitioning to a PGWP.  
+2. You have eligible employment that supports her OWP extension.
+
+---
+
+### **2. Does the job need to be full-time, or is part-time sufficient?**  
+
+To extend your spouse’s work permit, the job typically **must be full-time** (30 hours per week or more) and fall under **NOC 0, A, or B categories**. Part-time employment generally does not meet the eligibility criteria for supporting your spouse’s OWP.  
+
+---
+
+### **3. Can you apply for her work permit if you have a part-time job as a student?**  
+
+No, part-time jobs you hold as a student (e.g., during your study permit period) **cannot be used** to apply for your spouse’s work permit. IRCC only considers full-time skilled employment that you hold **after completing your studies** (e.g., while waiting for your PGWP decision under implied status or after receiving your PGWP).
+
+---
+
+### **4. Can you combine two part-time jobs to support your spouse’s OWP application?**  
+
+Unfortunately, combining multiple part-time jobs to meet the 30-hour-per-week threshold is not generally accepted. IRCC requires evidence of **a single full-time job** in a qualifying NOC category to approve your spouse's OWP.  
+
+However, if one of your part-time jobs transitions into a full-time role in a skilled occupation, you may use that employment to apply for her work permit.  
+
+---
+
+### **Recommendations for Your Situation**  
+1. **Focus on Securing Full-Time Employment**:
+   - Start applying for full-time jobs in **NOC 0, A, or B** categories as soon as you complete your studies.
+   - Mention in your job applications that you will have a PGWP and are eligible to work full-time post-graduation.
+
+2. **Apply for PGWP Quickly**:
+   - Submit your PGWP application immediately after completing your program to maintain implied status, which allows you to work full-time until a decision is made.  
+
+3. **Keep Documentation Ready**:
+   - If you secure a full-time job before receiving your PGWP, you can include proof of employment (offer letter, contract, pay stubs) with your wife’s OWP extension application.  
+
+4. **Alternative Options for Your Wife**:
+   - If there is a delay in obtaining full-time skilled employment, consider applying for a **visitor record** to maintain her status temporarily while you wait to secure eligible employment.  
+
+---
+
+### **Summary**  
+- **Full-time skilled employment (NOC 0, A, or B)** is mandatory for your wife’s OWP extension.  
+- Part-time jobs (alone or combined) are not sufficient.  
+- You can apply for her OWP extension if you secure eligible employment before receiving your PGWP.  
+
+Would you like help drafting an application strategy or finding NOC categories for potential jobs?
