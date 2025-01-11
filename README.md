@@ -37,7 +37,7 @@ If you need further guidance or assistance, consider consulting an immigration c
    - **TEER 3 (Occupations requiring less than two years of college, apprenticeship training, or more than six months of on-the-job training):**
      Examples: Bakers, dental assistants, machinery operators.
 
-   You can search your job’s TEER level on the [Government of Canada NOC website](https://www.jobbank.gc.ca/noc/) by job title or code.
+   You can search your job’s TEER level on the [Government of Canada NOC website](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/find-national-occupation-code.html#wb-auto-4) by job title or code.
 
 ---
 
